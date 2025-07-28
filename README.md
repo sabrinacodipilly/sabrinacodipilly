@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabrinacodipilly
 - 👀 I’m interested in sustainability, software development, and more!
-- 🌱 I’m currently learning: CSCI62 - Advanced Programming with C++
+- 🌱 I’m currently learning: CSCI161 - Theory of Automata and Languages
 - 📫 How to reach me: scodipilly@scu.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have met the Property Brothers!
