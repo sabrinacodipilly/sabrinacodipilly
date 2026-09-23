@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabrinacodipilly
 - 👀 I’m interested in sustainability, software development, and more!
-- 🌱 I’m currently learning: CSCI169 - Programming Languages
+- 🌱 I’m currently learning: CSCI187 - The Design and Management of Software
 - 📫 How to reach me: scodipilly@scu.edu
 
 <!---
